@@ -1,4 +1,4 @@
-# Indian_News_Scrapper
+# Indian News Scrapper
 Indian All News Scrap and save to excel date wise
 Indian News Scrapper
 
