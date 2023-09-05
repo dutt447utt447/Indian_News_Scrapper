@@ -1,6 +1,6 @@
 # Indian_News_Scrapper
 Indian All News Scrap and save to excel date wise
-Indian_News_Scrapper
+Indian News Scrapper
 
 Summary:
 Indian All News Scrap and save to excel date wise.
